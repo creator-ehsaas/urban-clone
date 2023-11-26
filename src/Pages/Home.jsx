@@ -172,8 +172,6 @@ export default function Home() {
           mt={{ base: "70%", md: "50%", lg: "15%" }}
           p={8}
         >
-          <Heading mb="15%">Home Services</Heading>
-          <Navbar3 />
         </Container>
       </Flex>
       <Flex
